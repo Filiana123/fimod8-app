@@ -1,0 +1,25 @@
+{
+  "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff": {
+    "file": "assets/bootstrap-icons-BOrJxbIo.woff",
+    "src": "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff"
+  },
+  "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff2": {
+    "file": "assets/bootstrap-icons-BtvjY1KL.woff2",
+    "src": "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff2"
+  },
+  "resources/images/Laravel.png": {
+    "file": "assets/Laravel-B4QSG0dx.png",
+    "src": "resources/images/Laravel.png"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-Ch4VG9ja.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-BFaVWZhC.css",
+    "src": "resources/sass/app.scss",
+    "isEntry": true
+  }
+}
