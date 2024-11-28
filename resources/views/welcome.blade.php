@@ -14,7 +14,7 @@
         @include('components.nav')
     </header>
     <div class="container text-center my-5">
-        <h1 class="mb-4">Haloooooooooooo Belajar Controller & View pada Laravel</h1>
+        <h1 class="mb-4">Her & View pada Laravel</h1>
         {{-- Contoh cara mereferensikan gambar di dalam file blade dengan menggunakan pendekatan Vite --}}
         <img class="img-thumbnail" src="{{ Vite::asset('resources/images/Laravel.png') }}" alt="Laravel">
 
